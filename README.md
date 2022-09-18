@@ -4,7 +4,8 @@
 
 This is Zijing's project 1 repo, which contains a big data script that use Databricks API and Streamlit app to show word cloud for job salary analysis. 
 
-Demo link: 
+Demo link: somelink
+
 Dataset: https://www.kaggle.com/code/raghurayirath/plotly-data-science-job-salary-dataset-eda/data
 
 ## Project Structure
@@ -18,8 +19,8 @@ databricks jobs list --output JSON | jq
 ```
 
 ## CLI Query 
-  query-job-avg-salary  Find job average salary
-  query-most-n    --n      Find N most pay job, default=5
+  `query-job-avg-salary`  Find job average salary
+  `query-most-n`    --n      Find N most pay job, default=5
 
 ```linux
 chmod +x query.py
