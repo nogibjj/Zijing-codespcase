@@ -4,7 +4,7 @@
 
 This is Zijing's project 1 repo, which contains a big data script that use Databricks API and Streamlit app to show word cloud for job salary analysis. 
 
-Demo link: 
+Demo link: https://github.com/nogibjj/Zijing-codespcase/blob/main/video3571322614.mp4
 
 Dataset: https://www.kaggle.com/code/raghurayirath/plotly-data-science-job-salary-dataset-eda/data
 
