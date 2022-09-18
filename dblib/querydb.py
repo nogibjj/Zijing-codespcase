@@ -20,7 +20,7 @@ def querydb(query):
 
 
 def find_N_most_pay(N):
-    query = f"select salary, job_title from ds_salaries order by salary desc limit {N};"
+    query = f"select salary, job_title from ds_salaries order by int(salary) desc limit {N};"
     return querydb(query)
 
 
